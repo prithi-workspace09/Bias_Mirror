@@ -1,0 +1,114 @@
+{
+    "Gender": {
+        "Female": {
+            "Selection Rate": 0.0161,
+            "True Positive Rate (TPR)": 0.0295,
+            "Precision": 0.5556,
+            "Total": 6695
+        },
+        "Male": {
+            "Selection Rate": 0.1624,
+            "True Positive Rate (TPR)": 0.2112,
+            "Precision": 0.5263,
+            "Total": 6682
+        },
+        "Other": {
+            "Selection Rate": 0.0181,
+            "True Positive Rate (TPR)": 0.0324,
+            "Precision": 0.5667,
+            "Total": 6623
+        }
+    },
+    "Age Group": {
+        "20-30": {
+            "Selection Rate": 0,
+            "True Positive Rate (TPR)": 0,
+            "Precision": 0,
+            "Total": 0
+        },
+        "31-40": {
+            "Selection Rate": 0,
+            "True Positive Rate (TPR)": 0,
+            "Precision": 0,
+            "Total": 0
+        },
+        "41-50": {
+            "Selection Rate": 0.1788,
+            "True Positive Rate (TPR)": 0.2322,
+            "Precision": 0.5343,
+            "Total": 3338
+        }
+    },
+    "Education Level": {
+        "Bachelor": {
+            "Selection Rate": 0.143,
+            "True Positive Rate (TPR)": 0.1948,
+            "Precision": 0.544,
+            "Total": 3973
+        },
+        "Diploma": {
+            "Selection Rate": 0.0162,
+            "True Positive Rate (TPR)": 0.0259,
+            "Precision": 0.4925,
+            "Total": 4133
+        },
+        "High School": {
+            "Selection Rate": 0.0317,
+            "True Positive Rate (TPR)": 0.0466,
+            "Precision": 0.4286,
+            "Total": 3980
+        },
+        "Master": {
+            "Selection Rate": 0.1311,
+            "True Positive Rate (TPR)": 0.1748,
+            "Precision": 0.5588,
+            "Total": 3958
+        },
+        "PhD": {
+            "Selection Rate": 0.0083,
+            "True Positive Rate (TPR)": 0.0113,
+            "Precision": 0.3939,
+            "Total": 3956
+        }
+    },
+    "Experience Group": {
+        "Low": {
+            "Selection Rate": 0.0667,
+            "True Positive Rate (TPR)": 0.0989,
+            "Precision": 0.5079,
+            "Total": 6645
+        },
+        "Medium": {
+            "Selection Rate": 0.057,
+            "True Positive Rate (TPR)": 0.0912,
+            "Precision": 0.5381,
+            "Total": 6685
+        },
+        "High": {
+            "Selection Rate": 0.0733,
+            "True Positive Rate (TPR)": 0.1164,
+            "Precision": 0.5501,
+            "Total": 6670
+        }
+    },
+    "Test Score Group": {
+        "Low": {
+            "Selection Rate": 0.021,
+            "True Positive Rate (TPR)": 0.0354,
+            "Precision": 0.5108,
+            "Total": 6626
+        },
+        "Medium": {
+            "Selection Rate": 0.0367,
+            "True Positive Rate (TPR)": 0.0635,
+            "Precision": 0.5633,
+            "Total": 6681
+        },
+        "High": {
+            "Selection Rate": 0.1388,
+            "True Positive Rate (TPR)": 0.1842,
+            "Precision": 0.5274,
+            "Total": 6693
+        }
+    }
+}
